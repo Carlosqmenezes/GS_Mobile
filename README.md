@@ -1,4 +1,4 @@
-# ZeniteApp — CarbonEye Agro
+# ZeniteApp
 
 Aplicativo mobile de monitoramento de poluição industrial via satélite, desenvolvido para o Global Solution 2026 da FIAP.
 
