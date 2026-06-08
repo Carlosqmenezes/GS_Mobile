@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "ZeniteApp",
+    "slug": "zeniteapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1B3A6B"
+    },
+    "ios": { "supportsTablet": true },
+    "android": { "adaptiveIcon": { "foregroundImage": "./assets/adaptive-icon.png", "backgroundColor": "#1B3A6B" } },
+    "web": { "favicon": "./assets/favicon.png", "bundler": "metro" }
+  }
+}
