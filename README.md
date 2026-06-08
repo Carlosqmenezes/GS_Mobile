@@ -4,9 +4,9 @@ Aplicativo mobile de monitoramento de poluição industrial via satélite, desen
 
 ## Integrante
 
-- Nome: SEU NOME COMPLETO
-- RM: SEU RM
-- Curso: Engenharia de Software — FIAP
+- Nome: Carlos Eduardo de Queiroz Menezes
+- RM: 99849
+- Curso: Engenharia de Software — FIAP  (3ESPX)
 
 ## Sobre o Projeto
 
@@ -95,7 +95,12 @@ src/
 ├── theme/            — Cores, espacamentos e tipografia
 └── types/            — Interfaces TypeScript
 
+## Telas
 
+![Home](./assets/print-home.png)
+![Listagem](./assets/print-listagem.png)
+![Favoritos](./assets/print-favoritos.png)
+![Configuracoes](./assets/print-configuracoes.png)
 
 ## Observacoes
 
